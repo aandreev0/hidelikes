@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "HideLikes",
+  "version": "0.2",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://twitter.com/*"
+      ],
+      "js": ["jquery-3.2.1.min.js", "content.js"]
+    }
+  ]
+}
