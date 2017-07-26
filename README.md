@@ -1,9 +1,25 @@
 # HideLikes
-Chrome extension to hide number of likes and retweets on Twitter
+Welcome to the 21st century where nepotism is finally eradicated. This Google Chrome extension hides number of likes and retweets on Twitter. Now you can like tweets based solely on their value to you, not on how many others liked them. However, if the tweet was liked by your friend, you'll still see it.
 
-Sourced:
-https://stackoverflow.com/questions/13688238/javascript-style-display-none-or-jquery-hide-is-more-efficient
-https://stackoverflow.com/questions/2221160/how-to-change-a-css-class-style-through-javascript
-https://stackoverflow.com/questions/5452957/add-css-to-pages-through-a-css-file
-https://developer.chrome.com/extensions/getstarted
-https://robots.thoughtbot.com/how-to-make-a-chrome-extension
+Don't be sheeple, install HideLinks
+
+# How to install:
+
+Download code
+
+1. Go to chrome://exntensions
+2. Toggle "Developer mode" on
+3. Click on Load Unpacked Extension
+4. Go to folder (for example, Documents/hidelikes.github/)
+5. Reload Twitter
+6. Enjoy living in 21st century
+
+
+A.
+
+## Sources:
+* https://stackoverflow.com/questions/13688238/javascript-style-display-none-or-jquery-hide-is-more-efficient
+* https://stackoverflow.com/questions/2221160/how-to-change-a-css-class-style-through-javascript
+* https://stackoverflow.com/questions/5452957/add-css-to-pages-through-a-css-file
+* https://developer.chrome.com/extensions/getstarted
+* https://robots.thoughtbot.com/how-to-make-a-chrome-extension
