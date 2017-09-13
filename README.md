@@ -17,6 +17,14 @@ Download code
 
 A.
 
+## Before installing extensions:
+
+![disabled](https://github.com/aandreev0/hidelikes/raw/master/disabled.PNG)
+
+## When HideLikes is enabled:
+
+![enabled](https://github.com/aandreev0/hidelikes/raw/master/enabled.PNG)
+
 ## Sources:
 * https://stackoverflow.com/questions/13688238/javascript-style-display-none-or-jquery-hide-is-more-efficient
 * https://stackoverflow.com/questions/2221160/how-to-change-a-css-class-style-through-javascript
