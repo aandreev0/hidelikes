@@ -7,7 +7,7 @@ Don't be sheeple, install HideLinks
 
 Download code
 
-1. Go to chrome://exntensions
+1. Go to chrome://extensions
 2. Toggle "Developer mode" on
 3. Click on Load Unpacked Extension
 4. Go to folder (for example, Documents/hidelikes.github/)
@@ -17,7 +17,7 @@ Download code
 
 A.
 
-## Before installing extensions:
+## Before installing extension:
 
 ![disabled](https://github.com/aandreev0/hidelikes/raw/master/disabled.PNG)
 
