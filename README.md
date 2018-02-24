@@ -1,6 +1,8 @@
 # HideLikes
 Welcome to the 21st century where nepotism is finally eradicated. This Google Chrome extension hides number of likes and retweets on Twitter. Now you can like tweets based solely on their value to you, not on how many others liked them. However, if the tweet was liked by your friend, you'll still see it.
 
+Also now it hides "Moments" tab!
+
 Don't be sheeple, install HideLinks
 
 # How to install:
